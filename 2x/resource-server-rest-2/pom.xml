@@ -81,7 +81,7 @@
     </dependencies>
 
     <properties>
-        <oauth.version>2.2.1.RELEASE</oauth.version>
+        <oauth.version>2.2.5.RELEASE</oauth.version>
         <jwt.version>1.0.9.RELEASE</jwt.version>
         <commons-io.version>2.6</commons-io.version>
     </properties>
